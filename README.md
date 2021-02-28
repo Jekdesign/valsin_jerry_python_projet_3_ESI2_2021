@@ -10,7 +10,7 @@
   [repo_name]:$ ./bin/activate or source ./bin/activate 
 ```
 
-Config
+### Config
 ```
   [(env_virtuel) > repo_name]:$ pip install -r requirements.txt 
 ```
