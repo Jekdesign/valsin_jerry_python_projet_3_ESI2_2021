@@ -3,11 +3,11 @@
 
 ### Install
 ```
-  ~:$ cd repo_name
+  [~]:$ cd repo_name
 ```
 
 ```
-  repo_name:$ ./bin/activate or source ./bin/activate 
+  [repo_name]:$ ./bin/activate or source ./bin/activate 
 ```
 
 ```
