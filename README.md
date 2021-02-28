@@ -1,7 +1,7 @@
 # valsin_jerry_python_projet_3_ESI2_2021
 
 
-### Install
+### Install & config
 ```
   [~]:$ cd repo_name
 ```
@@ -9,8 +9,6 @@
 ```
   [repo_name]:$ ./bin/activate or source ./bin/activate 
 ```
-
-### Config
 ```
   [(env_virtuel) > repo_name]:$ pip install -r requirements.txt 
 ```
