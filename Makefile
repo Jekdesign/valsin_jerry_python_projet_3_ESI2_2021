@@ -11,9 +11,8 @@ activate:
 	
 dependencies:
 	pip3 install -r requirement.txt
-	pip3 install currencyconverter
 	pip3 install PySide6
-
+	pip3 install currencyconverter
 
 start:
 	python3 main.py

@@ -10,8 +10,15 @@
   [repo_name]:$ ./bin/activate or source ./bin/activate 
 ```
 
+Config
 ```
   [(env_virtuel) > repo_name]:$ pip install -r requirements.txt 
+```
+```
+  [(env_virtuel) > repo_name]:$ pip install PySide6
+```
+```
+  [(env_virtuel) > repo_name]:$ pip install currencyconverter
 ```
 
 ### Run
