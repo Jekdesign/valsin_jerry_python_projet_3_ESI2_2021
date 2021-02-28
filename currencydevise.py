@@ -76,13 +76,3 @@ class MyApp(QtWidgets.QWidget):
         self.devise1.setCurrentText(devise_to)
         self.devise2.setCurrentText(devise_from)
         self.compute()
-
-
-# if __name__ == "__main__":
-#     app = QtWidgets.QApplication([])
-
-#     widget = MyApp()
-#     widget.resize(600, 400)
-#     widget.show()
-
-#     sys.exit(app.exec_())
