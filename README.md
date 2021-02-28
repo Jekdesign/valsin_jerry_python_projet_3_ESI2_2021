@@ -12,7 +12,6 @@
 
 ```
   [(env_virtuel) > repo_name]:$ pip install -r requirements.txt 
-
 ```
 
 ### Run
