@@ -4,8 +4,15 @@
 ### Install
 ```
   ~:$ cd repo_name
+```
+
+```
   repo_name:$ ./bin/activate or source ./bin/activate 
+```
+
+```
   [(env_virtuel) > repo_name]:$ pip install -r requirements.txt 
+
 ```
 
 ### Run
